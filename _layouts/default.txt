@@ -28,10 +28,10 @@
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
-      {% if site.show_downloads %}
-	<a href="{{ https://scholar.google.com/citations?user=aKCcyZcAAAAJ&hl=en&authuser=1 }}" class="btn">Google Scholar</a>
-        <a href="{{ https://github.com/Twizwei }}" class="btn">Github</a>
-      {% endif %}
+
+	<a href="https://scholar.google.com/citations?user=aKCcyZcAAAAJ&hl=en&authuser=1" class="btn">Google Scholar</a>
+        <a href="https://github.com/Twizwei" class="btn">Github</a>
+
     </header>
 
     <main id="content" class="main-content" role="main">
