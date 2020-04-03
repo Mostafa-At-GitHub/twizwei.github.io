@@ -2,12 +2,13 @@
 title: YIRAN XU
 layout: default
 ---
-<div>
-<img class="pull left" src="images/yiran.jpg" width="256px" alt="" style="float: left; margin-right: 10px; border:1px solid black"><br>
-</div>
+
 
 <div id="about" class="col-md-9" style="text-align:justify">
     <h2>About me</h2>
+	<div>
+	<img class="pull left" src="images/yiran.jpg" width="256px" alt="" style="float: left; margin-right: 10px; border:1px solid black"><br>
+	</div>
 	<p>I'm currently an M.S. student at <a
 		href="http://www.ece.ucsd.edu/">UC San Diego</a>, advised by Prof. <a
 		href="http://www.svcl.ucsd.edu/~nuno/">Nuno Vasconcelos</a>, 
