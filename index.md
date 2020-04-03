@@ -3,7 +3,7 @@ title: YIRAN XU
 layout: default
 ---
 <div>
-<img src="./images/yiran.jpg" width="250" style="float: left; margin-right: 10px;"> 
+<img class="img-responsive img-rounded" src="images/yiran.jpg" alt="" style="max-width: 240px; border:1px solid black"><br>
 </div>
 
 <div id="about" class="col-md-9" style="text-align:justify">
