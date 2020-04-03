@@ -1,9 +1,8 @@
-I"Ì<div>
-<img class="img-responsive img-rounded" src="images/yiran.jpg" alt="" style="float: left; margin-right: 10px; max-width: 240px; border:1px solid black" /><br />
-</div>
-
-<div id="about" class="col-md-9" style="text-align:justify">
+I"¹<div id="about" class="col-md-9" style="text-align:justify">
     <h2>About me</h2>
+	<div>
+	<img class="pull left" src="images/yiran.jpg" width="256px" alt="" style="float: left; margin-right: 10px; border:1px solid black" /><br />
+	</div>
 	<p>I'm currently an M.S. student at <a href="http://www.ece.ucsd.edu/">UC San Diego</a>, advised by Prof. <a href="http://www.svcl.ucsd.edu/~nuno/">Nuno Vasconcelos</a>, 
 	and I'll join <a href="http://vt.edu/">Virgnia Tech</a> in August 2020, working with Prof. <a href="https://filebox.ece.vt.edu/~jbhuang/">Jia-Bin Huang</a>.
 	
@@ -30,7 +29,7 @@
 	    <table width="100%" border="0">
 		<tr>
 		    <td width="25%" valign="top">
-                        <a href="images/xoia.png" class="image"><img src="images/xoia.png" width="256px" alt="" /></a>
+                        <a href="images/xoia.png" class="image"><img src="images/xoia.png" width="300px" alt="" /></a>
                     </td>
 		    <td width="75%">
                         <div>Explainable Object-induced Action Decision for Autonomous Vehicles</div>
