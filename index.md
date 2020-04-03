@@ -4,11 +4,11 @@ layout: default
 ---
 
 
-<div id="about" class="col-md-9" style="text-align:justify">
+<div id="about" class="image-txt-container" style="text-align:justify">
     <h2>About me</h2>
+	<div class='cf'>
+	<img class="img-responsive img-rounded" src="images/yiran.JPG" width="230px" alt="" style="float: left; max-width: 240px; margin-right: 10px; border:1px solid black">
 	<div>
-	<img class="pull left" src="images/yiran.JPG" width="256px" alt="" style="float: left; margin-right: 10px; border:1px solid black"><br>
-	</div>
 	<p>I'm currently an M.S. student at <a
 		href="http://www.ece.ucsd.edu/">UC San Diego</a>, advised by Prof. <a
 		href="http://www.svcl.ucsd.edu/~nuno/">Nuno Vasconcelos</a>, 
@@ -19,11 +19,12 @@ layout: default
 	<a href="https://en.scut.edu.cn/">South China University of Technology (SCUT)</a>, advised by Prof. 
 <a href="https://web.stanford.edu/group/sdgc/scholarjbz.html">Junbo Zhang</a>.
 	</p>
-
 	<p>My research interest includes Computer Vision and Machine Learning, especially in explainable AI for various tasks. I'm also interested in implementing Computer Vision for beauty industry (e.g. generative networks, 3D modeling for facial make-up).
 	</p>
-	<p>Contact: y5xu [at] ucsd.edu or yiranx [at] vt.edu.
+	<p>Contact: y5xu [at] ucsd.edu or yiranx [at] vt.edu. My CV is available <a href="./files/Yiran_CV.pdf">here</a>.
 	</p>
+	</div>
+	</div>
 </div>
 
 <div id="news" class='col-md-9' style="text-align:justify">
