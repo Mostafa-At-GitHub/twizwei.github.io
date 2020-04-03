@@ -3,7 +3,7 @@ title: YIRAN XU
 layout: default
 ---
 <div>
-<img class="pull left" src="images/yiran.jpg" alt="" style="float: left; margin-right: 10px; max-width: 240px; border:1px solid black"><br>
+<img class="pull left" src="images/yiran.jpg" width="256px" alt="" style="float: left; margin-right: 10px; border:1px solid black"><br>
 </div>
 
 <div id="about" class="col-md-9" style="text-align:justify">
