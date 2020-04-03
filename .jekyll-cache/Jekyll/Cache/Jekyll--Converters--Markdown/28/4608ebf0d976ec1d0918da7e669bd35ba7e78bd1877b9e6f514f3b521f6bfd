@@ -1,5 +1,5 @@
-I"¶<div>
-<img class="img-responsive img-rounded" src="images/yiran.jpg" alt="" style="float: left; max-width: 240px; border:1px solid black" /><br />
+I"Ù<div>
+<img class="img-responsive img-rounded" src="images/yiran.jpg" alt="" style="float: left; margin-right: 10px; max-width: 240px; border:1px solid black" /><br />
 </div>
 
 <div id="about" class="col-md-9" style="text-align:justify">
@@ -29,10 +29,10 @@
 	<div class="pub">
 	    <table width="100%" border="0">
 		<tr>
-		    <td width="500" valign="top">
-                        <a href="images/xoia.png" class="image"><img src="images/xoia.png" width="500" alt="" /></a>
+		    <td width="30%" valign="top">
+                        <a href="images/xoia.png" class="image"><img src="images/xoia.png" width="96px" height="96px" alt="" /></a>
                     </td>
-		    <td width="80%">
+		    <td width="70%">
                         <div>Explainable Object-induced Action Decision for Autonomous Vehicles</div>
                         <div>
 			    <span><b>Yiran Xu</b></span>,
