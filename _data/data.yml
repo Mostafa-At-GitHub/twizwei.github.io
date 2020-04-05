@@ -1,0 +1,136 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Yiran Xu
+    tagline: M.S. at UC San Diego
+    avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: y5xu@ucsd.edu
+    # phone: 012 345 6789
+    # website: blog.webjeda.com #do not add http://
+    linkedin: Yiran Xu
+    github: twizwei
+    # gitlab:
+    # bitbucket:
+    twitter: '@Xu_Arthas'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+
+    #languages:
+    #  - idiom: English
+    #    level: Native
+
+    #  - idiom: French
+    #    level: Professional
+
+    #  - idiom: Spanish
+    #    level: Professional
+
+    interests:
+      - item: Photography
+        link:
+
+      - item: Hiking
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: About Me
+    summary: |
+      I'm currently an M.S. student at [UC San Diego](http://www.ece.ucsd.edu/), advised by Prof. [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/), and I'll join [Virgnia Tech](http://vt.edu/) in August 2020, working with Prof. [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/). Prior to this, I obtained my Bachelor degree from [South China University of Technology (SCUT)](https://en.scut.edu.cn/), advised by Prof. [Junbo Zhang](https://web.stanford.edu/group/sdgc/scholarjbz.html).
+
+      My research interest includes Computer Vision and Machine Learning, especially in explainable AI for various tasks. I'm also interested in implementing Computer Vision for beauty industry (e.g. generative networks, 3D modeling for facial make-up). My CV is available [here](Yiran_CV.pdf).
+
+education:
+    - degree: M.S. in Electrical and Computer Engineering
+      university: University of California San Diego
+      time: Sep. 2018 - Jun. 2020
+      logo: "../assets/images/ucsd_seal.png"
+      details: |
+        
+    - degree: B.E. in Electrical Engineering
+      university: South China University of Technology
+      time: Sep. 2014 - Jul. 2018
+      logo: "../assets/images/scut_seal.png"
+      details: |
+        
+experiences:
+    - role: Teaching Assistant
+      time: Jan. 2020 - Mar. 2020
+      company: <a href="https://natanaso.github.io/ece276a/">ECE 276A Sensing & Estimation in Robotics</a>, UC San Diego
+      details: |
+    - role: Research Assistant
+      time: Mar. 2019 - Jun. 2020
+      company: <a href="http://www.svcl.ucsd.edu/">SVCL</a>, UC San Diego
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+    papers:
+      - title: Explainable Object-induced Action Decision for Autonomous Vehicles
+        link: 
+        intro: "../assets/images/xoia.png"
+        authors: __Yiran Xu__, Xiaoyin Yang, Lihang Gong, Hsuan-Chu Lin, Tz-Ying Wu, Yungsheng Li, Nuno Vasconcelos
+        conference: CVPR 2020 [[paper](https://arxiv.org/abs/2003.09405) / [project page]() / [code]()]
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
