@@ -19,10 +19,10 @@
   <table width="100%" border="0">
   <tr>
   {% for publication in publications.papers %}
-  <td width="20%" valign="top">
-    <a href={{ publication.intro }}><img src={{publication.intro}} width="200px" alt="" ></a>
+  <td width="25%" valign="top">
+    <a href={{ publication.intro }}><img src={{publication.intro}} width="250px" alt="" ></a>
   </td>
-  <td width="80%">
+  <td width="75%">
   <div class="item">
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
@@ -31,6 +31,7 @@
     {% endif %}
     <div class="publication-authors">{{ publication.authors | markdownify}}</div>
     <div class="publication-conference">{{ publication.conference |  markdownify }}</div>
+    <div class="publication-details">{{ publication.details | markdownify}} </div>
   </div><!--//item-->
   </td>
   {% endfor %}
