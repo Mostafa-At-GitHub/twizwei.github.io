@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: y5xu@ucsd.edu
+    email: yiranx[at]vt.edu
     # phone: 012 345 6789
     # website: blog.webjeda.com #do not add http://
     linkedin: Yiran Xu
@@ -47,11 +47,18 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am currently an M.S. student at [UC San Diego](http://www.ece.ucsd.edu/), advised by Prof. [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/), and I will join [Virgnia Tech](http://vt.edu/) in August 2020, working with Prof. [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/). Prior to this, I obtained my Bachelor degree from [South China University of Technology (SCUT)](https://en.scut.edu.cn/), advised by Prof. [Junbo Zhang](https://web.stanford.edu/group/sdgc/scholarjbz.html).
+      I am currently a Ph.D student at [Virginia Tech](http://vt.edu/) working with Prof. [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/). Prior to this, I obtained my M.S. degree from [UC San Diego](http://www.ece.ucsd.edu/), advised by Prof. [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/), and my B.E. degree from [South China University of Technology (SCUT)](https://en.scut.edu.cn/), advised by Prof. [Junbo Zhang](https://web.stanford.edu/group/sdgc/scholarjbz.html).
 
-      My research interest includes Computer Vision and Machine Learning. Currently I am working on the scene understanding for Self-Driving. I am also interested in implementing Computer Vision for beauty industry (e.g. generative networks, 3D modeling for facial make-up). My CV is available [here](../assets/images/Yiran_CV.pdf).
+      My research interest includes Computer Vision and Machine Learning. I am interested in implementing Computer Vision for beauty industry (e.g. generative models for facial make-ups). I used to work on the scene understanding for Self-Driving. My CV is available [here](../assets/images/Yiran_CV.pdf).
 
 education:
+    - degree: Ph.D. in Computer Engineering
+      university: Virginia Tech
+      time: Aug. 2020 - Present
+      logo: "../assets/images/VT_Seal.jpg"
+      details: |
+
+    
     - degree: M.S. in Electrical and Computer Engineering
       university: University of California San Diego
       time: Sep. 2018 - Jun. 2020
@@ -66,9 +73,15 @@ education:
         
 experiences:
     - role: Teaching Assistant
+      time: Aug. 2020 - Present
+      company: ECE 6524/CS 6524 Deep Learning, Virginia Tech
+      details: |
+
+    - role: Teaching Assistant
       time: Jan. 2020 - Mar. 2020
       company: <a href="https://natanaso.github.io/ece276a/">ECE 276A Sensing & Estimation in Robotics</a>, UC San Diego
       details: |
+
     - role: Research Assistant
       time: Mar. 2019 - Jun. 2020
       company: <a href="http://www.svcl.ucsd.edu/">SVCL</a>, UC San Diego
