@@ -51,6 +51,13 @@ career-profile:
 
       My research interest includes Computer Vision and Machine Learning. I am interested in implementing Computer Vision for beauty industry (e.g. generative models for facial make-ups). I used to work on the scene understanding for Self-Driving. My CV is available [here](../assets/images/Yiran_CV.pdf).
 
+industry:
+    - degree: Snap Research
+      university: Research Intern
+      time: May 2021 - Aug. 2021
+      logo: "../assets/images/snap.png"
+      details: |
+
 education:
     - degree: Ph.D. in Computer Engineering
       university: Virginia Tech
@@ -70,7 +77,7 @@ education:
       time: Sep. 2014 - Jul. 2018
       logo: "../assets/images/scut_seal.png"
       details: |
-        
+     
 experiences:
     - role: Teaching Assistant
       time: Jan. 2021 - May 2021
@@ -92,19 +99,12 @@ experiences:
       company: <a href="http://www.svcl.ucsd.edu/">SVCL</a>, UC San Diego
 
 projects:
-    title: Industry Experiences
+    title: Professional Services
     intro: |
     assignments:
-      - title: Snap Research
-        link: "https://research.snap.com/"
-        tagline: "May 2021 - Aug. 2021, Research intern at Snap Research"
-
-industry:
-    - degree: Snap Research
-      university: Research Intern
-      time: May 2021 - Aug. 2021
-      logo: "../assets/images/snap.png"
-      details: |
+      - title: ICCV 2021 Reviewer
+        link: ""
+        tagline: ""
 
 publications:
     title: Publications
