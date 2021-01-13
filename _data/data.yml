@@ -73,8 +73,13 @@ education:
         
 experiences:
     - role: Teaching Assistant
-      time: Aug. 2020 - Present
-      company: ECE 6524/CS 6524 Deep Learning, Virginia Tech
+      time: Jan. 2021 - May 2021
+      company: ECE/CS 5424 Advanced Machine Learning
+      details: |
+
+    - role: Teaching Assistant
+      time: Aug. 2020 - Dec. 2020
+      company: ECE/CS 6524 Deep Learning, Virginia Tech
       details: |
 
     - role: Teaching Assistant
