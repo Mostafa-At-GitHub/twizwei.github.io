@@ -1,55 +1,18 @@
-{% assign education = site.data.data.education %}
-{% if industry %}
-  {% if site.data.data.sidebar.education %}
-  <div class="education-container container-block">
-
-    <h2 class="container-block-title">
-      Industry Experiences
-    </h2>
-
-    {% for graduation in industry %}
-    <div class="item">
-      <h4 class="degree">{{ graduation.degree }}</h4>
-      <h5 class="meta">{{ graduation.university }}</h5>
-      <div class="time">{{ graduation.time }}</div>
-    </div><!--//item-->
-    {% endfor %}
-
-  </div><!--//education-container-->
-  {% else %}
-  <section class="section educations-section">
-
-    <h2 class="section-title">
-      <span class="fa-stack fa-xs">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
-      </span>
-      Industry Experiences
-    </h2>
-
-    {% for graduation in industry %}
-    <div class="item">
-
-      <div class="meta">
-        <span class="pull-left"><img src={{graduation.logo}} width="50px" height="50px" style="float: left; margin-right: 10px" /></span>
-        <div class="upper-row">
-          
-          <h3 class="degree">{{ graduation.degree }}</h3>
-          <div class="time">{{ graduation.time }}</div>
-        </div><!--//upper-row-->
-
-        <div class="university">{{ graduation.university }}</div>
-      </div><!--//meta-->
-
-      {% if graduation.details %}
-      <div class="details">
-        {{ graduation.details | markdownify }}
-      </div><!--//details-->
-      {% endif %}
-
-    </div><!--//item-->
-    {% endfor %}
-
-  </section><!--//section-->
-  {% endif %}
-{% endif %}
+    <!--INDUSTRY DESCRIPTION -->
+    <div class="container desc">
+      <div class="row">
+              <div class="col-lg-2 col-lg-offset-0">
+                  <h5>INDUSTRY</h5>
+              </div><br/><br/>
+              <div class="col-lg-10">
+                  <div class="row">
+                      <div class="col-sm-3 col-sm-offset-1">
+                          <p><img class="img-responsive" src="../assets/images/snap.png" alt=""></p>
+                          <p class="text-center">Research Intern <br/> Summer 2021</p>
+                      </div>
+                  </div>
+              </div>
+      </div><!--/.row -->
+      <br/>
+      <hr>
+  </div><!--/.container -->
