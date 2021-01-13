@@ -92,12 +92,12 @@ experiences:
       company: <a href="http://www.svcl.ucsd.edu/">SVCL</a>, UC San Diego
 
 projects:
-    title: Projects
+    title: Industry Experiences
     intro: |
     assignments:
       - title: Snap Research
         link: "https://research.snap.com/"
-        tagline: "Research intern at Snap Research"
+        tagline: "May 2021 - Aug. 2021, Research intern at Snap Research"
 
 publications:
     title: Publications
