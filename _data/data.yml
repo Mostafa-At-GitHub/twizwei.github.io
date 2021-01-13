@@ -103,8 +103,8 @@ projects:
     intro: |
     assignments:
       - title: ICCV 2021 Reviewer
-        link: ""
-        tagline: ""
+        link: "http://iccv2021.thecvf.com/home"
+        tagline: |
 
 publications:
     title: Publications
