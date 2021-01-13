@@ -99,6 +99,13 @@ projects:
         link: "https://research.snap.com/"
         tagline: "May 2021 - Aug. 2021, Research intern at Snap Research"
 
+industry:
+    - degree: Snap Research
+      university: Research Intern
+      time: May 2021 - Aug. 2021
+      logo: "../assets/images/snap.png"
+      details: |
+
 publications:
     title: Publications
     intro: |
